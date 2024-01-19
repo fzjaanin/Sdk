@@ -1,0 +1,23 @@
+{
+  "name": "com.dinomite.dinomitesdk",
+  "version": "1.0.0",
+  "displayName": "DinomiteSdk",
+  "description": "dinomite sdk package",
+  "unity": "2021.3",
+  "unityRelease": "23f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+ },
+ "keywords": [
+    "dinomite",
+    "sdk"
+  ],
+  "author": {
+    "name": "dinomite",
+    "email": "",
+    "url": ""
+  }
+}
+
